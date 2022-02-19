@@ -6,16 +6,16 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-Create a new Angular project.
+Desing your website for calculation using wireframe work.
 
 ### Step 2:
-Inside project create app called mathapp.
+Then to execute the wireframe work desing use html,css
 
 ### Step 3:
-Create a html called area.html
+Use views.py to execute the coding in serverside.
 
 ### Step 4:
-Do the mathematical part in views.py
+Mention the path of the website in urls.py.
 
 ### Step 5:
 Give the urls in urls.py
@@ -128,4 +128,4 @@ urlpatterns = [
 ![OUTPUT](https://user-images.githubusercontent.com/93427278/154802117-94bc1306-8b92-4f52-a0f8-697a7e632296.png)
 
 ## Result:
-The code to execute mathematical website in server side has been created successfully
+A website to perform mathematical calculations in server side is created.
