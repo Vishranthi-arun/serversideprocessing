@@ -125,7 +125,7 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](https://user-images.githubusercontent.com/93427278/154801879-fd885e06-c6b3-44fd-8b40-055576134204.png)
+![OUTPUT](https://user-images.githubusercontent.com/93427278/154802117-94bc1306-8b92-4f52-a0f8-697a7e632296.png)
 
 ## Result:
 The code to execute mathematical website in server side has been created successfully
